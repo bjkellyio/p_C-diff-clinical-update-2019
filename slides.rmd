@@ -1,5 +1,5 @@
 ---
-title: "_C. difficile_ Clinical Update 2019<br/>"
+title: "_Clostridioides difficile_<br/>Clinical Update 2019<br/>"
 subtitle: "<hr/>"
 author: "Brendan J. Kelly"
 institute: "Infectious Diseases & Epidemiology<br/><br/>![](penn_logos/Penn-Shield-Logotype-White-over-Blue-RGB-Expanded.svg){width=160px}" 
@@ -34,7 +34,7 @@ xaringan::summon_remark()
 
 ## Learning Objectives <hr/>
 
-- Update on _C. difficile_: now _Clostridioides difficile_!
+- New genus! Introducing _Clostridioides difficile_!
 
 - _C. difficile_ diagnosis:  
 
@@ -48,9 +48,29 @@ xaringan::summon_remark()
     
     - therapies not covered in detail by guideline (FMT, Pittsburgh protocol, bezlotoxumab)
 
+- _C. difficile_ prevention:  
+
+    - antibiotic stewardship  
+    
+    - screening and isolation  
+ 
+
+---
+
+class: inverse, center, middle
+
+# New Name for an Old Foe
 
 
 ---
+
+## _Clostridioides_: a new genus <hr/>
+
+
+
+
+---
+
 
 class: inverse, center, middle
 
@@ -70,7 +90,7 @@ Image credit: [CID](https://academic.oup.com/cid/article/66/7/e1/4855916)
 
 ---
 
-## MMWR June 5, 1981 <hr/>
+## IDSA Guidelines <hr/>
 
 .pull-left[
 _All the above observations suggest the possibility of a <mark>cellular-immune dysfunction related to a common exposure that predisposes individuals to opportunistic infections such as pneumocystosis and candidiasis</mark>. Although the role of CMV infection in the pathogenesis of pneumocystosis remains unknown, the possibility of_ P. carinii _infection must be carefully considered in a differential diagnosis for previously healthy homosexual males with dyspnea and pneumonia._
@@ -82,6 +102,8 @@ _All the above observations suggest the possibility of a <mark>cellular-immune d
 .pull-right[
 ![](figs/cdiff_idsa_guideline_2017.png)
 ]
+
+.footnote[McDonald LC et al _Clin Inf Dis_ 2018]
 
 
 ---
@@ -98,6 +120,34 @@ class: inverse, center, middle
 ![an image](figs/cdiff_idsa_guideline_2017.png)
 
 .footnote[McDonald LC et al _Clinical Infectious Diseases_ 2018]
+
+---
+
+class: inverse, center, middle
+
+# How to Prevent _C. difficile_
+
+
+---
+
+
+
+---
+
+
+
+---
+
+
+
+
+class: inverse, center, middle
+
+# Conclusions
+
+
+---
+
 
 ---
 
