@@ -1,0 +1,84 @@
+Management of C.difficile - 2017 IDSA SHEA guideline update
+- initial treatment: vanco or fidaxo (over metro)
+- dosage of vanco 125
+- only metro if access limited and if mild-moderate C.difficile infection
+(severity: clinical mostly; objective WBC > 15k, Cr > 1.5)
+
+Why new first-line treatment?
+- Teasley Lancet 1983, Wenisch CID 1996, Zar CID 2007, Johnson CID 2014, Louie NEJM 2011, Cornely Lancet ID 2012
+→ vancomycin superior to metro for initial cure and sustained response
+→ fidaxomicin equivalent with initial cure but superior with sustained response
+
+FYI - Costco has negotiated a good price for oral vancomycin (90$ for 10-day course)
+
+First recurrence C.diff:
+- standard vanco, or vanco pulse taper, or standard fidaxomicin (weak recommendations)
+- need more data in this area
+
+More than one recurrence:
+Pulse taper vanco; vanco course followed by fidaxomicin; or fidaxomicin
+FMT recommended
+again weak recs; need more data
+
+Stuart Johnson -- the pulse seems more critical than the taper
+(or use rifaximin chaser after standard vanco course)
+(note: rifaximin has been associated with development of resistance)
+
+Sirbu BD CID 2017: vancomycin taper and pulsed regimen with careful follow-up for CDI recurrence
+
+What about FMT? Tan X, Johnson S Anaerobe 2019 (epub ahead of print)
+Van Nood NEJM 2013
+Cammarota 2015
+Hota 2017 * stopped for futility at interim analysis; vanco pulse taper better than FMT *
+Hvas ?year
+Youngster 2014, Lee 2016 (biggest), Kelly 2016, Jiang 2017, Kao 2017, Ianiro 2018
+
+Results are highly dependent on patient selection. FMT is not 100% cure; not the answer for everyone with C.difficile.
+
+More cautions with FMT:
+March 19, 2019 OpenBiome doubled its prices
+June 13, 2019: FDA safety alert regarding FMT
+November public hearing
+
+
+Soriano MM OFID 2014: explored fidaxomicin to manage multiple recurrences -- fidaxomicin chaser versus fidaxomicin taper (200mg daily for 7d then qod for 26 days)
+Remember fidaxomicin like vancomycin is not absorbed
+
+
+Guery Lancet ID 2018: EXTEND trial - compare fidaxomicin 200mg bid then qod for 20 days versus standard course of vancomycin → very similar initial cure, but rate of recurrence reduced with EXTEND strategy
+
+
+Bezlotoxumab - adjunctive therapy for C.difficile : MODIFY I and MODIFY II trials - Wilcox M NEJM 2017
+Who’s at “high risk”? 
+Gerding DN CID 2018 - age > 65, prior CDI, immunocompromise, severe CDI
+With no risk factors, no advantage
+When do you administer the drug? Doesn’t seem to matter when during treatment it is given
+Tan X Poster 1496 Friday 12:15pm
+
+
+Widespread practice of vanco prophylaxis for patients with prior CDI and subsequent antibiotic exposure:
+Van Hise CID 2016, Carignan AJG 2016, Splinter A Pharm 2018, Caroff ICHE 2019, Knight J Pharm 2019, Zhang BMC ID 2019
+Caroff prior R-CDI vs prior initial
+Mixed back; guidelines avoided making recommendation
+Individualized
+Oral presentation on oral vanco prophylaxis
+
+
+Summary:
+Metro inferior to vanco, regardless of disese severity
+Vanco and fidaxo equiv for initial cure; fidaxo superior for sustained response
+Mananagement of multiple recurrences tricky; reserve FMT for > 2 recurrences
+Extended pulse fidaxo and bezlo may improve outcomes
+
+Stuart Johnson, Loyola & Ciaran Kelly, BID = update committee
+
+Probiotics - not much discussion
+
+Not much rationale for high-dose vancomycin in non-fulminant disease; only first few days of fulminant disease; may make situation worse (eradicate)
+
+FMT for patients with fulminant CDI; acute severe ; two questions, no answers
+
+Guidelines recommendation for “Pittsburgh” protocol diverting loop ileostomy
+
+Level of metronidazole modest in the colon → interesting presentation tomorrow about metronidazole resistance
+

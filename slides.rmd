@@ -1,0 +1,107 @@
+---
+title: "_C. difficile_ Clinical Update 2019<br/>"
+subtitle: "<hr/>"
+author: "Brendan J. Kelly"
+institute: "Infectious Diseases & Epidemiology<br/><br/>![](penn_logos/Penn-Shield-Logotype-White-over-Blue-RGB-Expanded.svg){width=160px}" 
+date: "updated: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["bjk_xaringan.css",default-fonts]
+    lib_dir: libs
+    chakra: libs/remark-latest.min.js
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringan::summon_remark()
+```
+
+## Disclosures <hr/>
+
+- No conflicts of interest.
+
+- Opinions my own.
+
+
+
+---
+
+## Learning Objectives <hr/>
+
+- Update on _C. difficile_: now _Clostridioides difficile_!
+
+- _C. difficile_ diagnosis:  
+
+    - highlights from 2017 IDSA Guideline update  
+    
+    - distinguishing colonization from disease
+
+- _C. difficile_ treatment:  
+
+    - highlights from 2017 IDSA Guideline update  
+    
+    - therapies not covered in detail by guideline (FMT, Pittsburgh protocol, bezlotoxumab)
+
+
+
+---
+
+class: inverse, center, middle
+
+# How to Diagnose _C. difficile_
+
+
+---
+
+background-image: url(figs/cdiff_idsa_guideline_2017.png)
+background-size: contain
+
+
+???
+
+Image credit: [CID](https://academic.oup.com/cid/article/66/7/e1/4855916)
+
+
+---
+
+## MMWR June 5, 1981 <hr/>
+
+.pull-left[
+_All the above observations suggest the possibility of a <mark>cellular-immune dysfunction related to a common exposure that predisposes individuals to opportunistic infections such as pneumocystosis and candidiasis</mark>. Although the role of CMV infection in the pathogenesis of pneumocystosis remains unknown, the possibility of_ P. carinii _infection must be carefully considered in a differential diagnosis for previously healthy homosexual males with dyspnea and pneumonia._
+
+<p style="margin-left: 30px"> - Gottlieb MS et al <ins>MMWR</ins> 1981 </p> 
+
+]
+
+.pull-right[
+![](figs/cdiff_idsa_guideline_2017.png)
+]
+
+
+---
+
+class: inverse, center, middle
+
+# How to Treat _C. difficile_
+
+
+
+
+---
+
+![an image](figs/cdiff_idsa_guideline_2017.png)
+
+.footnote[McDonald LC et al _Clinical Infectious Diseases_ 2018]
+
+---
+
+class: inverse, center, middle
+
+
+

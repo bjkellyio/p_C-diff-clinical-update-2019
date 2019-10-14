@@ -1,0 +1,110 @@
+a, a > code {
+  color: rgb(249, 38, 114);
+  text-decoration: none;
+}
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 90%;
+}
+.remark-code-line-highlighted     { background-color: #ffff88; }
+/* changed to University of Pennsylvania blue for inverse background*/
+.inverse {
+  background-color: #011F5B;
+  color: #d6d6d6;
+  text-shadow: 0 0 20px #333;
+}
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #f3f3f3;
+}
+/* custom.css */
+.left-code {
+  color: #777;
+  width: 38%;
+  height: 92%;
+  float: left;
+}
+.right-plot {
+  width: 60%;
+  float: right;
+  padding-left: 1%;
+}
+/* title slide edits */
+.title-slide h1 {
+  font-size: 3.25em;
+}
+.title-slide h2, .title-slide h3 {
+  font-size: 2em;
+  line-height: 0.75em;
+}
+.title-slide .remark-slide-number {
+  display: none;
+}
+/* hr { */
+/*    display: block; */
+/*    height: 1px; */
+/*    border: 0; */
+/*    border-top: 1px solid #990000; */
+/*    margin: 1em 0; */
+/*    padding: 0; */
+/* } */
+/* add a title slide background per https://github.com/yihui/xaringan/wiki/Background-image */
+/* see other title slide tweaks per Middlebury CSS: https://github.com/yihui/xaringan/blob/master/inst/rmarkdown/templates/xaringan/resources/middlebury.css */
+/* .title-slide {
+/*  background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/7c/Shield_of_the_University_of_Pennsylvania.svg);
+/*  background-size: 40px;
+/*  background-position: 98% 93%;
+/*} */
+/* Two-column layout */
+.left-column {
+  color: #777;
+  width: 20%;
+  height: 92%;
+  float: left;
+}
+.left-column h2:last-of-type, .left-column h3:last-child {
+  color: #000;
+}
+.right-column {
+  width: 75%;
+  float: right;
+  padding-top: 1em;
+}
+.pull-left {
+  float: left;
+  width: 47%;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+}
+.pull-right ~ * {
+  clear: both;
+}
+img, video, iframe {
+  max-width: 100%;
+}
+blockquote {
+  border-left: solid 5px lightgray;
+  padding-left: 1em;
+}
+.remark-slide table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+.remark-slide table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #eee }
+
+@page { margin: 0; }
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}
