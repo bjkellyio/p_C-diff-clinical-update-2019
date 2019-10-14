@@ -6,7 +6,7 @@ a, a > code {
   position: absolute;
   bottom: 3em;
   padding-right: 4em;
-  font-size: 90%;
+  font-size: 75%;
 }
 .remark-code-line-highlighted     { background-color: #ffff88; }
 /* changed to University of Pennsylvania blue for inverse background*/

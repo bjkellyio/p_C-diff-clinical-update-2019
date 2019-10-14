@@ -82,3 +82,46 @@ Guidelines recommendation for “Pittsburgh” protocol diverting loop ileostomy
 
 Level of metronidazole modest in the colon → interesting presentation tomorrow about metronidazole resistance
 
+
+
+Nira Pollock, Harvard / Boston Children's: ultrasensitive toxin detection
+EIAs traditionally detect 1ng/mL; poor sensitivity compared to toxigenic culture (TC) (but is TC a good reference method?)
+Note: cytotoxicity assay (CTA) has analytic limit of detection 50-100pg/mL (in diluted stool) and with ~70% sensitivity compared to TC
+The molecular era: NAATs implemented to improve analytical sensitivity and specificity; but they have suboptimal clinical specificity (Truong DMID 2017; Lefkowitz Peds Inf Dis 2015…)
+Presence of a toxigenic organism does not = presence of toxin (in vivo environment far more complicated); Rupnik Nature Rev Micro 2009) - regulation of toxin production is complex
+So many tests (GDH, EIA, NAAT, TC, CTA)  for CDI: which has higher clinical utility for diagnosis of CDI -- detection of toxin or detection of toxigenic organism?
+Beaulieu CMI 2014; Polage JAMA IM 2015; Origuen CMI 2017; Polage DMID 2012; Planche Lancet Inf Dis 2013; …
+Correlate toxin quantity with disease severity
+Colonization by toxin-producing C.diff does not always cause disease → toxin may be necessary but not sufficient for disease (impact of host immunity); toxin often detectable after patients improve with infective therapy
+Quanteras → bead-based ELISA to capture toxin on beads, then flow beads onto array (small wells so can detect conversion on single beads): “digital ELISA” reduces background (1000x lower LOD compared to standard ELISA)
+Song et al J Clin Micro 2015; Pollock J Clin Micro 2015
+Clinical cutoff compared to limit of detection: by this assay, see Pollock et al CID 2018 (collaboration with bioMereux)
+11% NAAT positive among symptomless (carriers); among inpatient with new onset diarrhea
+Define cohorts by detectable stool toxin rather than NAAT; however, toxin concentration itself cannot reliably distinguish between cases and controls
+Conclusion: ultrasensitive toxin detection can be used to rule-out CDI, but maybe need other analytes (as well as clinical symptoms) to determine better diagnostic standard
+Kelly et al (Pollock) CID 2019: serum samples -- 4 groups and tested panel of cytokines (G-CSF seems to have most promise)
+Immune response analytes to optimize diagnosis of C.difficile → specific markers of innate and adaptive immunity to rule out C.diff
+Examining stool cytokines as well; looking at outcomes
+Stool cytokine measurements to distinguish severe from non-severe CDI
+Stool metabolomics; stool microbiome analysis - Kevin Gary U Houston; Yang-Yu Liu, Harvard Channing Lab
+*interference*: the potential for other antibodies present in stool to interfere with digital ELISA (or any ELISA); Nira Pollock says YES!
+Nira Pollock notes some strains (~10%) with isolated toxin A production
+
+Glen Hansen, Minnesota: advanced single molecule detection
+Co-regulation of toxins A and B: NAP-1 outbreak a/w truncation of tcdC, which drove hyperexpression of tcdA and B
+Shin 2009 JCM; two Nature papers from 2009 about toxin production
+5-10% of strains may possess more toxin A than toxin B
+Kelly and Lamont NEJM 2008 -- need to better characterize the host immune response
+Asymptomatic people can be free-toxin test positive: Lynn McFarland Infect Immunology
+Free toxin testing (EIA) positive in 38% of screened C.diff donors ???
+Yves Longtin CID 2013: discordance between PCR and EIA ; Tim Planche and Mark Wilcox CID 2015; Planche Lancet Inf Dis 2013; Chris Polage JAMA IM 2015
+PCR+/EIA- are often empirically treated… so result analysis confounded by treatment
+No reliable laboratory standard for CDI diagnosis; and subset of patients resolve by themselves
+Crobach Clin Micro Inf 2016
+NAAT testing will over-diagnose
+If you bring free-toxin test to market, regulatory standard is comparison to free toxin assay; molecular test must be compared to other tests
+First-Light platform - single molecule C.diff toxin testing: flourescent labeling of immune complexes, imaging similar to NGS (seems analytic LOD 45pg/mL)
+again , reference for sensitivity is CTA (less sensitive than TC)
+
+
+
