@@ -3,7 +3,7 @@ title: "_Clostridioides difficile_<br/>Clinical Update 2019<br/>"
 subtitle: "<hr/>"
 author: "Brendan J. Kelly"
 institute: "Infectious Diseases & Epidemiology<br/><br/>![](penn_logos/Penn-Shield-Logotype-White-over-Blue-RGB-Expanded.svg){width=160px}" 
-date: "updated: `r Sys.Date()`"
+date: "updated: `r format(Sys.Date(), '%d %B %Y')`"
 output:
   xaringan::moon_reader:
     css: ["bjk_xaringan.css",default-fonts]
@@ -20,6 +20,13 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 xaringan::summon_remark()
+```
+
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_webcam()
+xaringanExtra::use_tachyons()
+xaringanExtra::use_animate_css()
 ```
 
 ## Disclosures <hr/>
