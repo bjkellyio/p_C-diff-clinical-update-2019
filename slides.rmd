@@ -221,21 +221,21 @@ class: inverse, center, middle
 
 ---
 
-background-image: url(figs/cdiff_txrec_clean.png)
+background-image: url(libs/figs/cdiff_txrec_clean.png)
 background-size: contain
 
 
 
 ---
 
-background-image: url(figs/cdiff_txrec_mark_initial.png)
+background-image: url(libs/figs/cdiff_txrec_mark_initial.png)
 background-size: contain
 
 
 
 ---
 
-background-image: url(figs/cdiff_txrec_mark_recurrent.png)
+background-image: url(libs/figs/cdiff_txrec_mark_recurrent.png)
 background-size: contain
 
 
