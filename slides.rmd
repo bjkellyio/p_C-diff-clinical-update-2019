@@ -22,11 +22,17 @@ options(htmltools.dir.version = FALSE)
 xaringan::summon_remark()
 ```
 
-```{r xaringan-tile-view, echo=FALSE}
+```{r xaringan-tile-view, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, include=FALSE}
 xaringanExtra::use_tile_view()
 xaringanExtra::use_webcam()
 xaringanExtra::use_tachyons()
 xaringanExtra::use_animate_css()
+xaringanExtra::use_share_again()
+xaringanExtra::style_share_again(foreground = "white",
+                                 background = "#011F5B",
+                                 share_buttons = c("none")
+)
+
 ```
 
 ## Disclosures <hr/>
